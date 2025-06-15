@@ -13,5 +13,6 @@ Welcome to the LLaVA-NeXT documentation. This guide provides an overview of the 
 4. [LLaVA-NeXT Video](LLaVA-NeXT-Video.md): Get information about the latest video processing features in LLaVA-NeXT.
 
 5. [LLaVA-NeXT Overview](LLaVA-NeXT.md): Read a comprehensive overview of the LLaVA-NeXT project, including its architecture, features, and capabilities.
+6. [Two-Decoder Pipeline](TwoDecoderPipeline.md): Experimental stack with a small VLM, linguistic refiner and solver decoder.
 
 These documents provide in-depth information on various aspects of LLaVA-NeXT. Please refer to them for detailed explanations, implementation details, and usage instructions.

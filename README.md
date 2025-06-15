@@ -231,6 +231,7 @@ If you find it useful for your research and applications, please cite related pa
 - [Instruction Tuning with GPT-4](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM)
 - [LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day](https://github.com/microsoft/LLaVA-Med)
 - [Otter: In-Context Multi-Modal Instruction Tuning](https://github.com/Luodian/Otter)
+- [Two-Decoder Pipeline](docs/TwoDecoderPipeline.md): small VLM compression with a linguistic refiner and solver decoder
 
 For future project ideas, please check out:
 - [SEEM: Segment Everything Everywhere All at Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
